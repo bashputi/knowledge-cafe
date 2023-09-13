@@ -1,0 +1,57 @@
+[
+    {
+      "ID": 12345,
+      "Cover": "https://i.ibb.co/K7Z6CFc/3.png",
+      "Title": "The Secret of Time Travel",
+      "Author": "John Smith",
+      "Author Bio": "A pseudonymous physicist with a knack for paradoxes.",
+      "Image": "https://i.ibb.co/NKTrCDD/boy1.png",
+      "Posted Date": "2023-08-15",
+      "Reading Time": "10 minutes",
+      "Hashtags": ["#TimeTravel", "#Physics", "#ScienceFiction"]
+    },
+    {
+      "ID": 67890,
+      "Cover": "https://i.ibb.co/K7Z6CFc/3.png",
+      "Title": "Cooking Adventures with Chef Julia",
+      "Author": "Julia Rodriguez",
+      "Author Bio": "A world-renowned chef with a passion for culinary creativity.",
+      "Image": "https://i.ibb.co/NKTrCDD/boy1.png",
+      "Posted Date": "2023-09-01",
+      "Reading Time": "15 minutes",
+      "Hashtags": ["#Cooking", "#Recipes", "#Foodie"]
+    },
+    {
+      "ID": 54321,
+      "Cover": "https://i.ibb.co/K7Z6CFc/3.png",
+      "Title": "Exploring Underwater Wonders",
+      "Author": "Emma Turner",
+      "Author Bio": "Marine biologist and ocean enthusiast.",
+      "Image": "https://i.ibb.co/NKTrCDD/boy1.png",
+      "Posted Date": "2023-08-20",
+      "Reading Time": "12 minutes",
+      "Hashtags": ["#MarineLife", "#Oceanography", "#Adventure"]
+    },
+    {
+      "ID": 98765,
+      "Cover": "https://i.ibb.co/K7Z6CFc/3.png",
+      "Title": "The Art of Mindfulness",
+      "Author": "David Tran",
+      "Author Bio": "Meditation and mindfulness coach.",
+      "Image": "https://i.ibb.co/NKTrCDD/boy1.png",
+      "Posted Date": "2023-09-05",
+      "Reading Time": "8 minutes",
+      "Hashtags": ["#Mindfulness", "#Meditation", "#Wellness"]
+    },
+    {
+      "ID": 24680,
+      "Cover": "https://i.ibb.co/K7Z6CFc/3.png",
+      "Title": "Space Exploration: Beyond the Stars",
+      "Author": "Sarah Adams",
+      "Author Bio": "Astronomer and astrophysics enthusiast.",
+      "Image": "https://i.ibb.co/NKTrCDD/boy1.png",
+      "Posted Date": "2023-08-25",
+      "Reading Time": "20 minutes",
+      "Hashtags": ["#Space", "#Astronomy", "#Science"]
+    }
+  ]
